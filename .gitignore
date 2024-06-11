@@ -1,2 +1,4 @@
-/data/
 /.idea/
+/cleanedData_steam/
+/cleanedData_twitch/
+/analysisData/

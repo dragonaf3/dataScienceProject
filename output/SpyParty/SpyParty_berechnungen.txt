@@ -1,0 +1,15 @@
+Korrelation zwischen average_viewers und avg_players:
+                 average_viewers  avg_players
+average_viewers         1.000000     0.227081
+avg_players             0.227081     1.000000
+Regressionskoeffizient: 0.022960932145304997
+Intercept: 10.296321681517021
+R^2: 0.05156589230398101
+ 
+Korrelation zwischen peak_viewers und peak_players:
+              peak_viewers  peak_players
+peak_viewers      1.000000      0.787968
+peak_players      0.787968      1.000000
+Regressionskoeffizient: 0.0009845881453778849
+Intercept: 32.246985683307685
+R^2: 0.6208935532067188
